@@ -1,0 +1,19 @@
+id: ff4f0238be2a4faa89ef158d96cbf322
+annotation_type: Language
+revision: '00001'
+annotations:
+  5c43c35e2cf44ae4a6640b8f9aee8cc3:
+    span:
+      start: 40
+      end: 190
+    language: en
+  43cf4bdc86eb4e7fb50c839a9db11651:
+    span:
+      start: 218
+      end: 776
+    language: en
+  bbf38bd0b6e24af18bf43c68346cee3b:
+    span:
+      start: 8204
+      end: 8247
+    language: en
